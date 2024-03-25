@@ -1,0 +1,1 @@
+Using a compass with navigation lets you know which direction your going in also how many degress you are at angle. 
